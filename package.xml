@@ -4,8 +4,8 @@
   <name>kiapi_msgs</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="sumin@todo.todo">sumin</maintainer>
-  <license>TODO: License declaration</license>
+  <maintainer email="sumin@todo.todo">sumin In</maintainer>
+  <license>Apach 2</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
